@@ -2,7 +2,6 @@ html {
   height: 100%;
   font-family: Georgia, georgia, sans-serif;
 }
-
 body {
   display: -webkit-box;   /* OLD: Safari,  iOS, Android browser, older WebKit browsers.  */
   display: -moz-box;      /* OLD: Firefox (buggy) */
@@ -24,7 +23,6 @@ body {
   height: 100%;
   width: 100% /* needed for Firefox */
 }
-
 #container {
   display: -webkit-box; display: -moz-box;
   display: -ms-flexbox;
@@ -39,14 +37,12 @@ body {
   padding-bottom: 10%;
   max-width:100%;
 }
-
 h1 {
   font-size: 12em;
   font-weight: normal;
   margin: 0;
   padding: 0;
   line-height: .8em;
-
 }
 h2 {
   font-size: 3em;
@@ -58,13 +54,4 @@ h2 {
 span.breeze {
   font-style: italic;
   color: #0DA4BC;
-}
-a, a:visited {
-  color: #aaa;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #333;
-  text-decoration: underline;
 }
