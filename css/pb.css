@@ -41,7 +41,7 @@ body {
 }
 
 h1 {
-  font-size: 16em;
+  font-size: 12em;
   font-weight: normal;
   margin: 0;
   padding: 0;
@@ -49,7 +49,7 @@ h1 {
 
 }
 h2 {
-  font-size: 4em;
+  font-size: 3em;
   color: #AAB3B6;
   margin: 0;
   padding: 0 0.2em 0 0;
