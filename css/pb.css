@@ -1,6 +1,6 @@
 html {
   height: 100%;
-  font-family: Georgia, georgi, sans-serif;
+  font-family: Georgia, georgia, sans-serif;
 }
 
 body {
@@ -40,12 +40,25 @@ body {
   max-width:100%;
 }
 
-p {
-  font-size: 3em;
-  text-align: center;
-  width: 100%;
-}
+h1 {
+  font-size: 16em;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  line-height: .8em;
 
+}
+h2 {
+  font-size: 4em;
+  color: #AAB3B6;
+  margin: 0;
+  padding: 0 0.2em 0 0;
+  text-align: right;
+}
+span.breeze {
+  font-style: italic;
+  color: #0DA4BC;
+}
 a, a:visited {
   color: #aaa;
   text-decoration: none;
