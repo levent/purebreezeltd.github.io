@@ -36,6 +36,8 @@ ul, i {
 
 a, a:visited {
   color: black;
+  font-weight: bold;
+  text-decoration: none;
 }
 a:hover {
   color: #0DA4BC;
