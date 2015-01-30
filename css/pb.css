@@ -42,6 +42,10 @@ a, a:visited {
 a:hover {
   color: #0DA4BC;
 }
+footer p {
+  font-size: 0.8em;
+  color: #999;
+}
 @media only screen and (max-width: 767px) {
   #container {
     margin-top: 20px;
